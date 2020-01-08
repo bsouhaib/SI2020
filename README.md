@@ -55,6 +55,8 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 # Dates importantes
 
+TBA
+
 <!--- 
 - **7 avril à 23h55**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle. **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier. N'attendez donc pas la dernière minute pour faire vos choix.**
 
