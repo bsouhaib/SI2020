@@ -3,7 +3,7 @@
 <!--- A l'issue de ces séminaires, les étudiants seront en mesure de comprendre différents concepts/outils émergents dans le domaine informatique au sens large ainsi que l'importance qu'il faut accorder aux activités de veille technologique. -->
 
 
-1.	Mercredi 26 Février 2020 (Mons, ?)
+1.	Mercredi 26 Février 2020 (Mons, )
 
 
 2.  Vendredi 4 Mars 2020 (Mons, )
@@ -20,7 +20,7 @@
 
 6.	Mercredi 1 Avril 2020 (Mons, )
 
-Vacances de printemps
+**Vacances de printemps**
 
 7.	Mercredi 22 Avril 2020 (Mons, )
 
@@ -43,7 +43,7 @@ Après avoir assisté aux différents séminaires, les étudiants devront choisi
 
 * Cette présentation sera effectuée par groupe de **deux étudiants** pendant **15 minutes**. Trois à cinq minutes additionelles seront utilisées pour poser des questions.
 * Les étudiants ne pourront utiliser qu’un **maximum de 10 slides**, et chaque étudiant devra prendre la parole. 
-* Les présentations auront lieu les **8 et 15** mai. Ces deux dernières séances (obligatoires pour tous les étudiants) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
+* Les présentations auront lieu les **6 et 13** mai. Ces deux dernières séances (obligatoires pour tous les étudiants) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
 
 
 Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les éléments suivants:
@@ -55,6 +55,7 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 
 # Dates importantes
 
+<!--- 
 - **7 avril à 23h55**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle. **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier. N'attendez donc pas la dernière minute pour faire vos choix.**
 
 
@@ -90,3 +91,5 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 	- 19h55-20h10: **Questionnements sur l'IA**, Aziz Amezian et Victor Dheur
 	- 20h15-20h30: **Comparatif de bases de donnée graphe et SQL**, Corentin Dachy et Florent Huylenbroeck
 	- 20h35-20h50: **Watson dans le secteur médical**, Logan Detrain
+
+	-->
