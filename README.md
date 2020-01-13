@@ -5,11 +5,15 @@
 
 1.	Mercredi 26 Février 2020 (Mons, )
 
+	* 	*Cyber sécurité : techniques de défense et d’attaque*, [Emilien Peretti](https://www.linkedin.com/in/emilienperetti/?originalSubdomain=be), Digital DTechT
 
 2.  Vendredi 4 Mars 2020 (Mons, )
 
 
-3.	Mercredi 11 Mars 2020 (Mons, )
+	* *Data Visualization*, [Karim Douieb](https://www.linkedin.com/in/karim-douieb/?originalSubdomain=be), Jetpack.AI
+
+
+3.	Mercredi 11 Mars 2020 (Charleroi, )
 
 
 4.	Mercredi 18 Mars 2020 (Mons, )
@@ -18,7 +22,7 @@
 5.	Mercredi 25 Mars 2020 (Charleroi, )
 
 
-6.	Mercredi 1 Avril 2020 (Mons, )
+6.	Mercredi 1 Avril 2020 (Charleroi, )
 
 **Vacances de printemps**
 
@@ -28,7 +32,7 @@
 8.	Mercredi 29 Avril 2020 (Mons, )
 
 
-9. 	Jeudi 6 Mai 2020 (Charleroi, )
+9. 	Jeudi 6 Mai 2020 (Mons, )
 
 	*	Évaluation
 
