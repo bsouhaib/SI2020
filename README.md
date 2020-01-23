@@ -18,6 +18,8 @@
 
 4.	Mercredi 18 Mars 2020 (Mons, )
 
+	* *Title TBC*, [Thibault Bughin - NLP Specialist] and [Arthur Jansens - Machine Learning Specialist]
+
 
 5.	Mercredi 25 Mars 2020 (Mons, )
 
