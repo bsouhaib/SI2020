@@ -17,7 +17,7 @@
 
 4.	Mercredi 18 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
-	* *TBA*, [Thibault Bughin - NLP Specialist] and [Arthur Jansens - Machine Learning Specialist]
+	* *TBA*, [Thibault Bughin - NLP Specialist](https://www.linkedin.com/in/thibaultbughin/) and [Arthur Jansen - Machine Learning Specialist](https://www.linkedin.com/in/arthur-jansen)
 
 5.	Mercredi 25 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
