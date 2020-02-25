@@ -1,4 +1,4 @@
-# Séminaires d'informatique (Seminars in Computer Science) 2020, UMons
+# Séminaires d'informatique (Industrial seminars in Computer Science) 2020, UMons
 
 <!--- A l'issue de ces séminaires, les étudiants seront en mesure de comprendre différents concepts/outils émergents dans le domaine informatique au sens large ainsi que l'importance qu'il faut accorder aux activités de veille technologique. -->
 
