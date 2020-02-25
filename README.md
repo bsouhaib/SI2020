@@ -26,13 +26,17 @@
 
 6.	Mercredi 1 Avril 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
+	* *TBA*
+
 **Vacances de printemps**
 
 7.	Mercredi 22 Avril 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
+	* *TBA*
 
 8.	Mercredi 29 Avril 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
+	* *TBA*
 
 9. 	Jeudi 6 Mai 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
