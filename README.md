@@ -12,16 +12,16 @@
 
 	* *Data Visualization*, [Karim Douieb](https://www.linkedin.com/in/karim-douieb/?originalSubdomain=be), Jetpack.AI
 
-
 3.	Mercredi 11 Mars 2020 (Mons, )
-
+	* *Chatbots: Opportunités et challenges dans un contexte entrepreneurial*, [Ons Dridi](https://www.cetic.be/Ons-Dridi?lang=fr)
 
 4.	Mercredi 18 Mars 2020 (Mons, )
 
-	* *Title TBC*, [Thibault Bughin - NLP Specialist] and [Arthur Jansens - Machine Learning Specialist]
-
+	* *TBA*, [Thibault Bughin - NLP Specialist] and [Arthur Jansens - Machine Learning Specialist]
 
 5.	Mercredi 25 Mars 2020 (Mons, )
+
+* *Data Science & Business: mythes, fantasmes et réalité d'un mariage contre nature*, [Michel Herquet](https://www.linkedin.com/in/michelherquet/?originalSubdomain=be)
 
 
 6.	Mercredi 1 Avril 2020 (Charleroi, )
