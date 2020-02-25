@@ -3,42 +3,42 @@
 <!--- A l'issue de ces séminaires, les étudiants seront en mesure de comprendre différents concepts/outils émergents dans le domaine informatique au sens large ainsi que l'importance qu'il faut accorder aux activités de veille technologique. -->
 
 
-1.	Mercredi 26 Février 2020 (Mons, )
+1.	Mercredi 26 Février 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
 	* 	*Cyber sécurité : techniques de défense et d’attaque*, [Emilien Peretti](https://www.linkedin.com/in/emilienperetti/?originalSubdomain=be), Digital DTechT
 
-2.  Vendredi 4 Mars 2020 (Charleroi, )
+2.  Vendredi 4 Mars 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
 
 	* *Data Visualization*, [Karim Douieb](https://www.linkedin.com/in/karim-douieb/?originalSubdomain=be), Jetpack.AI
 
-3.	Mercredi 11 Mars 2020 (Mons, )
+3.	Mercredi 11 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 	* *Chatbots: Opportunités et challenges dans un contexte entrepreneurial*, [Ons Dridi](https://www.cetic.be/Ons-Dridi?lang=fr)
 
-4.	Mercredi 18 Mars 2020 (Mons, )
+4.	Mercredi 18 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
 	* *TBA*, [Thibault Bughin - NLP Specialist] and [Arthur Jansens - Machine Learning Specialist]
 
-5.	Mercredi 25 Mars 2020 (Mons, )
+5.	Mercredi 25 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
 * *Data Science & Business: mythes, fantasmes et réalité d'un mariage contre nature*, [Michel Herquet](https://www.linkedin.com/in/michelherquet/?originalSubdomain=be)
 
 
-6.	Mercredi 1 Avril 2020 (Charleroi, )
+6.	Mercredi 1 Avril 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
 **Vacances de printemps**
 
-7.	Mercredi 22 Avril 2020 (Charleroi, )
+7.	Mercredi 22 Avril 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
 
-8.	Mercredi 29 Avril 2020 (Mons, )
+8.	Mercredi 29 Avril 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
 
-9. 	Jeudi 6 Mai 2020 (Mons, )
+9. 	Jeudi 6 Mai 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
 	*	Évaluation
 
-10.	Mercredi 13 Mai 2020 (Mons, )
+10.	Mercredi 13 Mai 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
 	*	Évaluation
 
