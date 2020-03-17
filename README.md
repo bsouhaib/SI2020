@@ -17,7 +17,7 @@
 
 4.	Mercredi 18 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
-	* *TBA*, [Thibault Bughin - NLP Specialist](https://www.linkedin.com/in/thibaultbughin/) and [Arthur Jansen - Machine Learning Specialist](https://www.linkedin.com/in/arthur-jansen)
+	* *Lead Generation or how to leverage company data using Machine Learning*, [Arthur Jansen - Machine Learning Specialist](https://www.linkedin.com/in/arthur-jansen) and [Thibault Bughin - NLP Specialist](https://www.linkedin.com/in/thibaultbughin/)
 
 5.	Mercredi 25 Mars 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
@@ -26,7 +26,7 @@
 
 6.	Mercredi 1 Avril 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
-	* *TBA*
+	* *Grow your own language: The YAFL story*, [Darius Blasband](https://www.dariusblasband.com/)
 
 **Vacances de printemps**
 
