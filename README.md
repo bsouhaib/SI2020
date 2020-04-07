@@ -38,13 +38,9 @@
 
 	* *TBA*
 
-9. 	Jeudi 6 Mai 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
+9. 	Jeudi 6 Mai 2020 et Mercredi 13 Mai 2020
 
-	*	Évaluation
-
-10.	Mercredi 13 Mai 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
-
-	*	Évaluation
+	* Les étudiants travaillent sur leur rapport.
 
 
 # Examen (**mis à jour le 7 avril 2020**)
@@ -56,8 +52,7 @@ Les étudiants seront évalués par rapport à leur capacité à **analyser et p
 * **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires)**
 * **Le rapport (clair, bien structuré, suscite l'intérêt, vocabulaire technique, respect des consignes)**
 
-* Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans le rapport (brièvement) la contribution de chaque étudiant.
-* Le rapport ne dépassera pas **5 pages A4** (Police Arial, taille 12, paragraphes justifiés)
+Concernant le rapport, le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans le rapport (brièvement) la contribution de chaque étudiant. Le rapport ne dépassera pas **5 pages A4** (Police Arial, taille 12, paragraphes justifiés).
 
 
 
