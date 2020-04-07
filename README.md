@@ -50,14 +50,14 @@ Après avoir assisté aux différents séminaires, les étudiants devront choisi
 * **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires)**
 * **Le rapport (clair, bien structuré, suscite l'intérêt, vocabulaire technique, respect des consignes)**
 
-Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans le rapport (brièvement, max. 5 lignes) la contribution de chaque étudiant. Le rapport ne dépassera pas **5 pages A4** (Police Arial, taille 12, paragraphes justifiés).
+Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans le rapport (brièvement, max. 5 lignes) la contribution de chaque étudiant. Le rapport ne dépassera pas **5 pages A4** (format PDF, Police Arial, taille 12, paragraphes justifiés).
 
 
 
 # Dates importantes
 
-- **20 avril à 23h55**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle. **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier. N'attendez donc pas la dernière minute pour faire vos choix.**
+- **20 avril à 23h59**. Les groupes de deux étudiants sont formés. Le sujet ainsi que le titre de la présentation sont décidés. Cette information est transmise sur Moodle. **Le sujet devra être approuvé par l'enseignant. Si deux groupes proposent le même sujet, la priorité sera donnée au groupe qui a soumis le sujet en premier. N'attendez donc pas la dernière minute pour faire vos choix.**
 
 
-- **17 mai à 23h55**. Le rapport est soumis sur Moodle (en format PDF). **Chaque étudiant doit soumettre une copie du rapport de son groupe**.
+- **17 mai à 23h59**. Le rapport est soumis sur Moodle (en format PDF). **Chaque étudiant doit soumettre une copie du rapport de son groupe**.
 
