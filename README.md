@@ -45,7 +45,7 @@
 
 # Examen (**mis à jour le 7 avril 2020**)
 
-Après avoir assisté aux différents séminaires, les étudiants devront choisir un sujet **en rapport avec les séminaires présentés**. Ils devront ensuite écrire un rapport qui traite de ce sujet. Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les éléments suivants:
+Après avoir assisté aux différents séminaires, les étudiants devront choisir un sujet **en rapport avec les séminaires présentés**. Ils devront ensuite écrire un rapport qui traite de ce sujet. Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de **l'informatique en entreprise**. Plus précisément, l'évaluation sera basée sur les éléments suivants:
 
 * **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires)**
 * **Le rapport (clair, bien structuré, suscite l'intérêt, vocabulaire technique, respect des consignes)**
