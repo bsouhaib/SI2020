@@ -32,7 +32,7 @@
 
 7.	Mercredi 22 Avril 2020 (Charleroi, Boulevard Joseph II, Cha 252)
 
-	* *TBA*
+	* *Graph & Network Analytics : The power of relations*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS
 
 8.	Mercredi 29 Avril 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
