@@ -36,7 +36,7 @@
 
 8.	Mercredi 29 Avril 2020 (Mons, De Vinci, Premier étage, Salle Mirzakahni)
 
-	* *TBA*
+	* *Big Data, Intelligence Artificielle, Impact Sociétal : Comment articuler tout cela dans une crise sanitaire ?*, [Fréderic Pivetta](https://www.linkedin.com/in/frederic-pivetta-13034b16/?originalSubdomain=be)
 
 9. 	Jeudi 6 Mai 2020 et Mercredi 13 Mai 2020
 
@@ -78,6 +78,11 @@ Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans l
 - Lavend'homme Thomas et Floriani Laurence. **Accentuation de la visibilité des cyber-menaces lors de la crise du Covid-19**.
 
 - Josse Thomas et Bossart Laurent. **Cybersecurité avec Metasploit**.
+
+- SANANIKONE Nicolas et DELPLANCQ Emilien. ?? (Titre manquant)
+- Mohamed EL MESSAOUDI et Jean-François HAINAUT. Cyber-Sécurité (Titre trop général)
+- KAMTA Boris et N'LEMBA MABELA Jonathan. Cyber sécurité (Titre trop général)
+- Danial Joukar et Byloos Ryan. Alexa, l'assistant vocal développé et distribué par Amazon. (Titre trop général, Description manquante).
 
 
 
