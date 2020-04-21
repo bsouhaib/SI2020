@@ -61,3 +61,32 @@ Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans l
 
 - **17 mai à 23h59**. Le rapport est soumis sur Moodle (en format PDF). **Chaque étudiant doit soumettre une copie du rapport de son groupe**.
 
+# Groupes
+
+- Robin Scherer et Virgile Brouillard. **Les Data breach**.
+
+- Cassart Justin et Collin Florent. Compilation : Différences lors de la compilation entre différents languages utilisées actuellement en entreprise avec leurs avantages et inconvénients.
+
+- BOOSKO Sam et DECOCQ Rémy. Techniques d'authentification typographique.
+
+- Nizar SELMAOUI et Alaa CHEIKH. L’analyse forensique.
+
+- WOUAFO NDJI Diesel et KAMGO TEUGUIA Martin. Sécurité des banques en ligne.
+
+- Hervé Jacquemin et Kamal Belhou. Détail et comparaison de deux moyens d’identification biométrique.
+
+- Lavend'homme Thomas et Floriani Laurence. Accentuation de la visibilité des cyber-menaces lors de la crise du Covid-19.
+
+- Josse Thomas et Bossart Laurent. Cybersecurité avec Metasploit.
+
+
+
+
+
+
+
+
+
+
+
+
