@@ -79,10 +79,14 @@ Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans l
 
 - Josse Thomas et Bossart Laurent. **Cybersecurité avec Metasploit**.
 
-- SANANIKONE Nicolas et DELPLANCQ Emilien. ?? (Titre manquant)
-- Mohamed EL MESSAOUDI et Jean-François HAINAUT. Cyber-Sécurité (Titre trop général)
-- KAMTA Boris et N'LEMBA MABELA Jonathan. Cyber sécurité (Titre trop général)
-- Danial Joukar et Byloos Ryan. Alexa, l'assistant vocal développé et distribué par Amazon. (Titre trop général, Description manquante).
+- SANANIKONE Nicolas et DELPLANCQ Emilien. **Utilisation de l'intelligence artificielle en entrepise, définition approfondie et analyse éthique**.
+
+- KAMTA Boris et N'LEMBA MABELA Jonathan. **Failles de sécurité réseau et solutions**.
+
+- Mohamed EL MESSAOUDI et Jean-François HAINAUT. **Cyber-Sécurité : Les algorithmes de chiffrement utilisé pour le Wi-Fi**.
+
+- Danial Joukar, Byloos Ryan et Axelle Deghorian. Alexa, l'assistant vocal d'Amazon.
+
 
 
 
