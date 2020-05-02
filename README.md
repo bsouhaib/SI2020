@@ -85,7 +85,7 @@ Le travail se fera par groupe de **deux étudiants**. Il faudra préciser dans l
 
 - Mohamed EL MESSAOUDI et Jean-François HAINAUT. **Cyber-Sécurité : Les algorithmes de chiffrement utilisé pour le Wi-Fi**.
 
-- Danial Joukar, Byloos Ryan et Axelle Deghorian. Alexa, l'assistant vocal d'Amazon.
+- Danial Joukar, Byloos Ryan et Axelle Deghorian. **Alexa, l'assistant vocal d'Amazon**.
 
 
 
